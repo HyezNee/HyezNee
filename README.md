@@ -24,8 +24,6 @@
    
 ***   
 
-<div>
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhaenim)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/HyezNee/notebook/light)
-</div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyezNee&show_icons=true&title_color=9A89C5&icon_color=C59A89&include_all_commits=true&count_private=true)
