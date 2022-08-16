@@ -11,10 +11,10 @@
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge">
 </div>
+
 ### ✨ Frameworks
 <div>
    <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-   <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
    <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
