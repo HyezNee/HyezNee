@@ -10,6 +10,7 @@
    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
    <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge">
+   <img src=https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white>
 </div>
 
 ### ✨ Frameworks
@@ -29,5 +30,5 @@
    
    
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhaenim)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/HyezNee/notebook/light)   
+<!--- ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/HyezNee/notebook/light)--->   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyezNee&show_icons=true&title_color=9A89C5&icon_color=C59A89&include_all_commits=true&count_private=true)
