@@ -13,7 +13,7 @@
    <img src=https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white>
 </div>
 
-### ✨ Frameworks
+### ✨ Library/Frameworks
 <div>
    <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
    <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
