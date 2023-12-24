@@ -23,6 +23,7 @@
    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white">
+   <img src="https://img.shields.io/badge/docker?style=for-the-badge&logo=docker&logoColor=white">
 </div>
    
    
